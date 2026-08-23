@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://siriored.vercel.app/sitemap.xml
